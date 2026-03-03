@@ -51,7 +51,7 @@ const Navbar = () => (
           <Zap strokeWidth={1.5} className="text-primary w-4 h-4 fill-current" />
         </div>
         <span className="text-[15px] font-semibold text-white tracking-[-0.02em]" style={{ fontFamily: 'Outfit, Inter, sans-serif' }}>
-          Clonegram
+          Clonagram
         </span>
       </div>
 
@@ -169,7 +169,7 @@ const Features = () => {
       <div className="max-w-5xl mx-auto px-6">
         <div className="text-center mb-16">
           <h2 className="text-[2rem] md:text-[2.5rem] text-white mb-4" style={{ fontFamily: 'Outfit, Inter, sans-serif', fontWeight: 600, letterSpacing: '-0.025em' }}>
-            Por que o Clonegram?
+            Por que o Clonagram?
           </h2>
           <p className="text-slate-500 text-[15px] max-w-md mx-auto">
             Construído para quem leva automação no Telegram a sério.
@@ -271,11 +271,11 @@ const Footer = () => (
         <div style={{ background: 'rgba(34,158,217,0.10)', border: '1px solid rgba(34,158,217,0.18)' }} className="p-1.5 rounded-lg">
           <Zap strokeWidth={1.5} className="text-primary w-3.5 h-3.5 fill-current" />
         </div>
-        <span className="text-sm font-semibold text-white tracking-[-0.02em]" style={{ fontFamily: 'Outfit, Inter, sans-serif' }}>Clonegram</span>
+        <span className="text-sm font-semibold text-white tracking-[-0.02em]" style={{ fontFamily: 'Outfit, Inter, sans-serif' }}>Clonagram</span>
       </div>
 
       <p className="text-slate-600 text-xs order-last md:order-none">
-        © {new Date().getFullYear()} Clonegram. Todos os direitos reservados.
+        © {new Date().getFullYear()} Clonagram. Todos os direitos reservados.
       </p>
 
       <div className="flex gap-7">
